@@ -1,7 +1,9 @@
 <div align="center" width="50">
 <img src="https://github.com/MasonDoherty/MasonDoherty/blob/main/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" width="600">
 <br><br>
-# Software & Tools:
+
+### Software & Tools:
+
   <a href="https://www.linkedin.com/in/mason-heath-doherty/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
