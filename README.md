@@ -1,4 +1,4 @@
-<img src="https://github.com/MasonDoherty/MasonDoherty/assets/119443982/ae172467-c7b0-4102-838b-802a13ebf955" width="600">
+<img src="https://github.com/MasonDoherty/MasonDoherty/blob/main/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" width="600">
 <br><br>
 
 
