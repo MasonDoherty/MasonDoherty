@@ -1,3 +1,4 @@
+<div align="center" width="50">
 <img src="https://github.com/MasonDoherty/MasonDoherty/blob/main/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" width="600">
 <br><br>
 # Software & Tools:
@@ -44,7 +45,7 @@
     <img src="https://skillicons.dev/icons?i=stackoverflow" />
     
  <a href="">[![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server%20-%20red?logo=microsoft%20SQL%20server&link=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fsql-server)](https://www.microsoft.com/en-us/sql-server)</a>
-
+</div>
 
 
 <!--
