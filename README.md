@@ -51,34 +51,34 @@
   <summary>
     <h1><strong>The Story Of Mason Doherty: From the Frontlines to the Codebase</strong></h1>
   </summary>
-  <summary>
-    <h2><strong>Chapter 1: Call of Duty - A Journey Through the USMC Infantry</strong></h2>
-  </summary>
-Joining the United States Marine Corps as an infantryman, Mason Doherty embarks on a challenging and transformative journey. From the training grounds to the battlefield, he hones his leadership skills and learns the true essence of dedication and perseverance.
-  <summary>
-    <h2><strong>Chapter 2: Leading the Charge - A Shift in Mission</strong></h2>
-  </summary>
-As Mason rises through the ranks and becomes a team leader in the infantry, he discovers his innate ability to guide and inspire others. His leadership becomes a beacon of hope amidst the chaos of the battlefield.
-  <summary>
-    <h2><strong>Chapter 3: Embracing Technology - The Evolution of a Warrior</strong></h2>
-  </summary>
-Upon completing his military service with honor, Mason realizes his fascination with technology and its potential for positive change. He sets his sights on becoming a full stack developer, driven by his passion for creation and problem-solving.
-  <summary>
-    <h2><strong>Chapter 4: Cracking the Code - Mastering the Art of Development</strong></h2>
-  </summary>
-Immersed in the world of programming, Mason faces new challenges as he learns multiple languages, frameworks, and tools. His leadership experience in the infantry serves as a strong foundation, empowering him to lead tech projects with determination and resilience.
-  <summary>
-    <h2><strong>Chapter 5: Forging Digital Realms - The Joy of Creation</strong></h2>
-  </summary>
-As Mason delves deeper into full stack development, he finds joy in taking an idea from concept to completion. Much like leading a team in the infantry, he now guides projects to success, fostering collaboration and camaraderie among fellow developers.
-  <summary>
-    <h2><strong>Chapter 6: Homecoming - Settling in Laguna Niguel, California</strong></h2>
-  </summary>
-After years of serving his country, Mason finds solace in the picturesque city of Laguna Niguel, California. Here, he establishes himself as a full stack developer and embraces the vibrant tech community.
-  <summary>
-    <h2><strong>Conclusion: Beyond the Battlefield - The Ongoing Leadership Odyssey</strong></h2>
-  </summary>
-Mason's journey from a USMC infantry team leader to a full stack developer is a testament to his growth as a leader and his passion for technology. Drawing upon the lessons learned on the frontlines, he continues to lead and innovate, making a positive impact in both the military and tech realms. With unwavering determination, he looks ahead to new challenges, embracing the unknown with the spirit of a true leader and a relentless coder. The odyssey continues, and Mason Doherty stands ready to conquer new horizons.
+  <details>
+    <summary><h2><strong>Chapter 1: Call of Duty - A Journey Through the USMC Infantry</strong></h2></summary>
+    Joining the United States Marine Corps as an infantryman, Mason Doherty embarks on a challenging and transformative journey. From the training grounds to the battlefield, he hones his leadership skills and learns the true essence of dedication and perseverance.
+  </details>
+  <details>
+    <summary><h2><strong>Chapter 2: Leading the Charge - A Shift in Mission</strong></h2></summary>
+    As Mason rises through the ranks and becomes a team leader in the infantry, he discovers his innate ability to guide and inspire others. His leadership becomes a beacon of hope amidst the chaos of the battlefield.
+  </details>
+  <details>
+    <summary><h2><strong>Chapter 3: Embracing Technology - The Evolution of a Warrior</strong></h2></summary>
+    Upon completing his military service with honor, Mason realizes his fascination with technology and its potential for positive change. He sets his sights on becoming a full stack developer, driven by his passion for creation and problem-solving.
+  </details>
+  <details>
+    <summary><h2><strong>Chapter 4: Cracking the Code - Mastering the Art of Development</strong></h2></summary>
+    Immersed in the world of programming, Mason faces new challenges as he learns multiple languages, frameworks, and tools. His leadership experience in the infantry serves as a strong foundation, empowering him to lead tech projects with determination and resilience.
+  </details>
+  <details>
+    <summary><h2><strong>Chapter 5: Forging Digital Realms - The Joy of Creation</strong></h2></summary>
+    As Mason delves deeper into full stack development, he finds joy in taking an idea from concept to completion. Much like leading a team in the infantry, he now guides projects to success, fostering collaboration and camaraderie among fellow developers.
+  </details>
+  <details>
+    <summary><h2><strong>Chapter 6: Homecoming - Settling in Laguna Niguel, California</strong></h2></summary>
+    After years of serving his country, Mason finds solace in the picturesque city of Laguna Niguel, California. Here, he establishes himself as a full stack developer and embraces the vibrant tech community.
+  </details>
+  <details>
+    <summary><h2><strong>Conclusion: Beyond the Battlefield - The Ongoing Leadership Odyssey</strong></h2></summary>
+    Mason's journey from a USMC infantry team leader to a full stack developer is a testament to his growth as a leader and his passion for technology. Drawing upon the lessons learned on the frontlines, he continues to lead and innovate, making a positive impact in both the military and tech realms. With unwavering determination, he looks ahead to new challenges, embracing the unknown with the spirit of a true leader and a relentless coder. The odyssey continues, and Mason Doherty stands ready to conquer new horizons.
+  </details>
 </details>
 </div>
 
