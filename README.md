@@ -80,7 +80,9 @@
     Mason's journey from a USMC infantry team leader to a full stack developer has been an odyssey of growth and transformation. Drawing upon the lessons learned on the frontlines, he continues to lead and innovate in the tech realm. With unwavering determination, he embraces new challenges and adventures, always seeking to conquer new horizons. The story of Mason Doherty is a testament to the resilience of a true leader and the passion of a relentless coder, and his journey continues to unfold, propelled by his unwavering dedication to making a positive impact in the world.
   </details>
 </details>
+
 #My Repo's
+
 <a href="https://github.com/MasonDoherty/AssignRef-MasonDoherty">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MasonDoherty&repo=AssignRef-MasonDoherty&show_icons=true&theme=tokyonight" />
 </a>
