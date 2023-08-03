@@ -55,13 +55,7 @@
       </strong>
     </h1>
   </summary>
-As a Full Stack Software Engineer, Navy Veteran, and devoted Father of two little ones, my journey into the world of computing began long ago, as a wide-eyed child filled with wonder. It was my father who first introduced me to the magical realm of computers. I still recall those enchanting days when floppy discs held the key to old-school gaming adventures, and the internet was still an absolute infant.
 
-As the years passed, my fascination with computers only grew stronger. I immersed myself in the digital world, devouring knowledge, and honing my skills independently. It was as if destiny was gently nudging me toward a path I was destined to follow. Eventually, I realized that Software Engineering was not merely a career choice, but a calling that beckoned me to create and innovate.
-
-Currently, I'm furthering my dreams as a Student at National University, diligently working towards my Bachelor's degree in Computer Science. The journey has been filled with challenges and triumphs. I cherish every moment of this voyage, as it brings back memories of the many days spent exploring the frontiers of technology.
-
-When I'm not immersed in the realm of coding, you'll usually find me anywhere there is good Jazz music playing, at the Gym, or at the Beach with my family. My path as a software engineer is not only a reflection of my skills and knowledge but a tribute to the nostalgic memories that kindled my passion for technology. With every line of code I write, I pay homage to the past while shaping a brighter future for myself and those around me.
 </details>
 </div>
 
