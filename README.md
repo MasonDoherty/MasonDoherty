@@ -80,6 +80,22 @@
     Mason's journey from a USMC infantry team leader to a full stack developer has been an odyssey of growth and transformation. Drawing upon the lessons learned on the frontlines, he continues to lead and innovate in the tech realm. With unwavering determination, he embraces new challenges and adventures, always seeking to conquer new horizons. The story of Mason Doherty is a testament to the resilience of a true leader and the passion of a relentless coder, and his journey continues to unfold, propelled by his unwavering dedication to making a positive impact in the world.
   </details>
 </details>
+#My Repo's
+<a href="https://github.com/MasonDoherty/AssignRef-MasonDoherty">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MasonDoherty&repo=AssignRef-MasonDoherty&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/MasonDoherty/FullStack-.Net-SQL-React">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MasonDoherty&repo=FullStack-.Net-SQL-React&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/MasonDoherty/Portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MasonDoherty&repo=Portfolio&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/MasonDoherty/Resume/blob/master/Mason%20Doherty%20-%20Software%20Engineer.pdf">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MasonDoherty&repo=Resume&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/carlminier/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlminier&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=tokyonight" />
+</a>
 </div>
 
 
