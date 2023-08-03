@@ -53,7 +53,7 @@
   </summary>
   <details>
     <summary><h2><strong>Chapter 1: Call of Duty - A Journey Through the USMC Infantry</strong></h2></summary>
-    Joining the United States Marine Corps as an infantryman, Mason Doherty embarks on a challenging and transformative journey. From the training grounds to the battlefield, he hones his leadership skills and learns the true essence of dedication and perseverance.
+    Joining the United States Marine Corps as an Anti-Tank Missleman, Mason Doherty embarks on a challenging and transformative journey. From the training grounds to the battlefield, he hones his leadership skills and learns the true essence of dedication and perseverance.
   </details>
   <details>
     <summary><h2><strong>Chapter 2: Leading the Charge - A Shift in Mission</strong></h2></summary>
@@ -72,12 +72,12 @@
     As Mason delves deeper into full stack development, he finds joy in taking an idea from concept to completion. Much like leading a team in the infantry, he now guides projects to success, fostering collaboration and camaraderie among fellow developers.
   </details>
   <details>
-    <summary><h2><strong>Chapter 6: Homecoming - Settling in Laguna Niguel, California</strong></h2></summary>
-    After years of serving his country, Mason finds solace in the picturesque city of Laguna Niguel, California. Here, he establishes himself as a full stack developer and embraces the vibrant tech community.
+    <summary><h2><strong>Chapter 6: Embracing New Adventures - Coding, Canines, and Camping</strong></h2></summary>
+    In his free time, Mason's focus shifts away from military-related activities. He immerses himself in coding, a world where he can express his creativity and problem-solving skills. Alongside coding, he cherishes the companionship of his beloved dog, exploring nature during camping adventures. Mason finds solace and fulfillment in these pursuits, fueling his growth as a developer and a person.
   </details>
   <details>
-    <summary><h2><strong>Conclusion: Beyond the Battlefield - The Ongoing Leadership Odyssey</strong></h2></summary>
-    Mason's journey from a USMC infantry team leader to a full stack developer is a testament to his growth as a leader and his passion for technology. Drawing upon the lessons learned on the frontlines, he continues to lead and innovate, making a positive impact in both the military and tech realms. With unwavering determination, he looks ahead to new challenges, embracing the unknown with the spirit of a true leader and a relentless coder. The odyssey continues, and Mason Doherty stands ready to conquer new horizons.
+    <summary><h2><strong>Conclusion: Beyond the Battlefield - The Ongoing Journey of Growth</strong></h2></summary>
+    Mason's journey from a USMC infantry team leader to a full stack developer has been an odyssey of growth and transformation. Drawing upon the lessons learned on the frontlines, he continues to lead and innovate in the tech realm. With unwavering determination, he embraces new challenges and adventures, always seeking to conquer new horizons. The story of Mason Doherty is a testament to the resilience of a true leader and the passion of a relentless coder, and his journey continues to unfold, propelled by his unwavering dedication to making a positive impact in the world.
   </details>
 </details>
 </div>
