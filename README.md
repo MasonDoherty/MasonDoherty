@@ -81,21 +81,6 @@
   </details>
 </details>
 
-# My Repo's:
-
-
-<a href="https://github.com/MasonDoherty/FullStack-.Net-SQL-React">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MasonDoherty&repo=FullStack-.Net-SQL-React&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://github.com/MasonDoherty/Portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MasonDoherty&repo=Portfolio&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://github.com/MasonDoherty/Resume/blob/master/Mason%20Doherty%20-%20Software%20Engineer.pdf">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MasonDoherty&repo=Resume&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://github.com/MasonDoherty/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MasonDoherty&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=tokyonight" />
-</a>
 </div>
 
 
